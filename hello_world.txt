@@ -1,5 +1,2 @@
 some_text
-<<<<<<< HEAD
 other_text
-=======
->>>>>>> 2d3f832150ad246892a0528ffd091c2ee3f59782
