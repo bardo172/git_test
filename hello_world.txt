@@ -1,2 +1,1 @@
 some_text
-test_from_github
